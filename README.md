@@ -5,7 +5,7 @@ This PHP attendance system project
 * Email   : admin@mail.com
 * Password: (Password: Password@123)
 
-# Have Function Add Teacher Email and Use this email to login in Class Teacher #
+# Admin Have Function Add Teacher Email and Use this email to login in Class Teacher #
 
 **Teacher Login Details**
 
